@@ -1,0 +1,14 @@
+C:\Users\Adbutha\source\repos\Day2_Task3\Day2_Task3\bin\Debug\net8.0\Day2_Task3.exe
+C:\Users\Adbutha\source\repos\Day2_Task3\Day2_Task3\bin\Debug\net8.0\Day2_Task3.deps.json
+C:\Users\Adbutha\source\repos\Day2_Task3\Day2_Task3\bin\Debug\net8.0\Day2_Task3.runtimeconfig.json
+C:\Users\Adbutha\source\repos\Day2_Task3\Day2_Task3\bin\Debug\net8.0\Day2_Task3.dll
+C:\Users\Adbutha\source\repos\Day2_Task3\Day2_Task3\bin\Debug\net8.0\Day2_Task3.pdb
+C:\Users\Adbutha\source\repos\Day2_Task3\Day2_Task3\obj\Debug\net8.0\Day2_Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adbutha\source\repos\Day2_Task3\Day2_Task3\obj\Debug\net8.0\Day2_Task3.AssemblyInfoInputs.cache
+C:\Users\Adbutha\source\repos\Day2_Task3\Day2_Task3\obj\Debug\net8.0\Day2_Task3.AssemblyInfo.cs
+C:\Users\Adbutha\source\repos\Day2_Task3\Day2_Task3\obj\Debug\net8.0\Day2_Task3.csproj.CoreCompileInputs.cache
+C:\Users\Adbutha\source\repos\Day2_Task3\Day2_Task3\obj\Debug\net8.0\Day2_Task3.dll
+C:\Users\Adbutha\source\repos\Day2_Task3\Day2_Task3\obj\Debug\net8.0\refint\Day2_Task3.dll
+C:\Users\Adbutha\source\repos\Day2_Task3\Day2_Task3\obj\Debug\net8.0\Day2_Task3.pdb
+C:\Users\Adbutha\source\repos\Day2_Task3\Day2_Task3\obj\Debug\net8.0\Day2_Task3.genruntimeconfig.cache
+C:\Users\Adbutha\source\repos\Day2_Task3\Day2_Task3\obj\Debug\net8.0\ref\Day2_Task3.dll
